@@ -15,5 +15,4 @@ activity_sub2.xml
 low.xml
 
 // マニュフェストのソースコード
-
 AndroidManifest.xml
